@@ -1,0 +1,8 @@
+Crop recommendation, 22 classes (chance = 4.5%)
+Logistic Regression: CV accuracy 0.968 (+/- 0.007)
+KNN: CV accuracy 0.965 (+/- 0.012)
+Random Forest: CV accuracy 0.994 (+/- 0.005)
+Random Forest TEST accuracy: 0.995
+Random Forest TEST macro F1: 0.995
+Feature importance: {'rainfall': 0.22, 'humidity': 0.217, 'K': 0.181, 'P': 0.151, 'N': 0.103, 'temperature': 0.075, 'ph': 0.052}
+Rice P-level from other features: CV accuracy 0.330 (chance = 0.33)

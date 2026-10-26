@@ -1,0 +1,5 @@
+fertilizer,bag_kg,price_per_bag_inr,N_pct,P2O5_pct,K2O_pct,price_per_kg_inr,cost_per_kg_main_nutrient_inr,source
+Urea,45,242.0,46,0,0,5.38,11.7,Lok Sabha reply AU878 (eparlib.nic.in)
+DAP,50,1331.26,18,46,0,26.63,57.89,Lok Sabha reply AU878 (eparlib.nic.in)
+MOP,50,1661.24,0,0,60,33.22,55.37,Lok Sabha reply AU878 (eparlib.nic.in)
+SSP,50,531.66,0,16,0,10.63,66.44,Lok Sabha reply AU878 (eparlib.nic.in)
